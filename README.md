@@ -1,36 +1,86 @@
-### Hi there, I'm Kartik Sharma! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kartik%20Sharma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62" />
+</div>
 
-I'm a **Software Developer** and **BCA Student** based in **Jaipur, Rajasthan**. I love building full-stack applications that solve real-world problems.
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+%26+FARM+Stack+Developer;Cloud+Computing+Student;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
+</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development (FARM Stack & MERN)**
-- 🌱 I’m currently learning **Cloud Computing & Advanced AI Integration**
-- 💬 Ask me about **React, TypeScript, Python, and Java**
-- 📫 How to reach me: **kartikuma9261@gmail.com**
-- ⚡ Fun fact: I turn coffee into code! ☕
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/kartik-sharma06" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:kartikuma9261@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://kartiksharma.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=radical&hide_border=true" alt="Kartik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+I am a **Software Developer** and **BCA Student** based in **Jaipur, Rajasthan**, passionate about building robust web applications. I specialize in both the **MERN** (MongoDB, Express, React, Node) and **FARM** (FastAPI, React, MongoDB) stacks.
+
+- 🔭 I’m currently working on **Advanced Portfolio & E-commerce Solutions**
+- 🌱 I’m currently learning **DevOps & Cloud Architecture**
+- 💡 I love integrating **AI & IoT** into web platforms
+- ⚡ **Fun Fact:** I built a fully functional spending tracker app inspired by Threads!
 
 ---
 
-[Website](https://kartiksharma.site) • [LinkedIn](https://linkedin.com/in/kartik-sharma06)
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux,vite&perline=8" />
+
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,firebase&perline=7" />
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,linux&perline=7" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages" />
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| **CVcraft** | **MyPortfolio** | **Tanushree** |
+|:---:|:---:|:---:|
+| 📄 **AI Resume Builder** | 🌐 **Personal Brand Site** | 🎨 **Creative Portfolio** |
+| Full Stack (FARM) app to create ATS-friendly resumes. | Professional portfolio with Admin Dashboard & CMS. | Responsive showcase with modern UI/UX design. |
+| [View Repo](https://github.com/KartikSharma4448/CVcraft) | [View Repo](https://github.com/KartikSharma4448/MyPortfolio) | [View Repo](https://github.com/KartikSharma4448/Tanushree) |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikSharma4448&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <br/>
+  <i>Let's connect and build something amazing together!</i>
+</div>
