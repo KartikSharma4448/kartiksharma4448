@@ -53,19 +53,19 @@ I am a **Software Developer** and **BCA Student** based in **Jaipur, Rajasthan**
 
 ### 📊 GitHub Analytics
 
+### 📊 My GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksharma4448&layout=compact&theme=radical" alt="Top Languages" />
+  
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiksharma4448&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-</div>
+  <br/><br/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksharma4448&theme=radical" alt="GitHub Streak" />
+</div>
 ---
 
 ### 🏆 Featured Projects
