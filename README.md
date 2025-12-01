@@ -59,8 +59,6 @@ I am a **Software Developer** and **BCA Student** based in **Jaipur, Rajasthan**
   </a>
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages" />
   <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
