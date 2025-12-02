@@ -26,7 +26,7 @@ I am a **Software Developer** and **BCA Student** based in **Jaipur, Rajasthan**
 
 - 🔭 I’m currently working on **Advanced Portfolio & E-commerce Solutions**
 - 🌱 I’m currently learning **DevOps & Cloud Architecture**
-- 💡 I love integrating **AI & IoT** into web platforms
+- 💡 I love integrating **AI & IoT** into web platforms.
 - ⚡ **Fun Fact:** I built a fully functional spending tracker app inspired by Threads!
 
 ---
