@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=520&lines=Building+AI-Powered+Web+Applications;FastAPI+%2B+React+%2B+NVIDIA+NIM;2%2B+Years+of+Production+Experience;Shipping+Code+That+Matters+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Production+Systems;FastAPI+%2B+React+%2B+NVIDIA+NIM+%2B+TensorFlow;2%2B+Years+%7C+4+Paid+Roles+%7C+15%2B+Shipped+Projects;Shipping+Code+That+Matters+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://kartiksharma.site"><img src="https://img.shields.io/badge/Portfolio-kartiksharma.site-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kartik-sharma06"><img src="https://img.shields.io/badge/LinkedIn-kartik--sharma06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kartikuma9261@gmail.com"><img src="https://img.shields.io/badge/Email-kartikuma9261-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kartiksharma.site"><img src="https://img.shields.io/badge/🌐_Portfolio-kartiksharma.site-1a73e8?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/kartik-sharma06"><img src="https://img.shields.io/badge/LinkedIn-kartik--sharma06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:kartikuma9261@gmail.com"><img src="https://img.shields.io/badge/Gmail-kartikuma9261-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/kartiksharma4448"><img src="https://img.shields.io/badge/GitHub-kartiksharma4448-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
@@ -17,106 +17,253 @@
 
 ---
 
-## 🧑‍💻 About
+## 🧑‍💻 About Me
 
-Full Stack Developer with **2+ years** of hands-on experience building AI-driven systems, scalable web applications, and mobile apps. Currently developing multi-modal AI features at **PetsGo** including biometric identification (OpenCV + TensorFlow), CNN-based disease detection, and acoustic health screening.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a73e8&langs_count=8" width="320" />
+
+Full Stack Developer with **2+ years** of production experience building **AI-driven systems**, scalable web apps, and mobile applications.
+
+Currently engineering **multi-modal AI** at **PetsGo | Pranag AI** — biometric muzzle-print identification (OpenCV + TensorFlow), CNN-based disease detection, and MFCC acoustic health screening for livestock.
 
 ```yaml
-Location:     Jaipur, Rajasthan, India
-Education:    BCA @ Vivekananda Global University (CGPA: 7.89)
-Experience:   4 paid roles • 15+ shipped projects • International freelance clients
-Currently:    Building AI livestock management platform @ PetsGo | Pranag AI
-⚡ Tech Stack
-<table> <tr> <td align="center" width="50%">
-Languages & Frontend
+📍 Location:     Jaipur, Rajasthan, India
+🎓 Education:    BCA @ Vivekananda Global University (CGPA: 7.89)
+💼 Experience:   4 paid roles • 15+ shipped projects • International clients
+🔬 Currently:    AI Livestock Platform @ PetsGo | Pranag AI
+🎯 Focus:        AI/ML Integration • Full Stack Architecture • Production Systems
+```
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,dart,react,nextjs,tailwind,threejs&perline=5" /> </td> <td align="center" width="50%">
-Backend & Infrastructure
+<br clear="right"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,redis,supabase,docker,git&perline=5" /> </td> </tr> </table> <details> <summary><b>📋 Detailed Breakdown</b></summary> <br/>
-Category	Technologies
-Languages	Python, JavaScript, TypeScript, Kotlin, Dart, SQL
-Frontend	React.js, Next.js, Three.js, Tailwind CSS, Framer Motion, GSAP
-Backend	FastAPI, Node.js, Express.js, RESTful APIs
-Mobile	Flutter, Android (Kotlin), Provider, GoRouter
-Databases	MongoDB, PostgreSQL, MySQL, SQLite, Supabase
-AI/ML	TensorFlow, OpenCV, NVIDIA NIM, LangChain, MFCC
-DevOps	Git, GitHub, Docker, Vercel, Render, PyInstaller
+---
+
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=3" />
+
+<sub>React • Next.js • TypeScript • Three.js<br/>Tailwind CSS • Framer Motion • GSAP</sub>
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask&perline=3" />
+
+<sub>FastAPI • Node.js • Express.js<br/>RESTful APIs • WebSocket • GraphQL</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🗄️ Data & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,docker,git&perline=3" />
+
+<sub>MongoDB • PostgreSQL • Redis<br/>Supabase • Docker • Git</sub>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**📱 Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=4" />
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=3" />
+
+<sub>NVIDIA NIM • LangChain • MFCC<br/>CNN • OpenCV • Embeddings</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,vercel&perline=5" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="15" align="center">🟢</td>
+<td><b>Full Stack Developer Intern</b></td>
+<td>PetsGo | Pranag AI</td>
+<td align="right"><code>Feb 2026 – Present</code></td>
+</tr>
+<tr>
+<td width="15" align="center">🔵</td>
+<td><b>Technical Manager — Web & Digital</b></td>
+<td>Anukriti Prakashan</td>
+<td align="right"><code>Mar 2025 – Dec 2025</code></td>
+</tr>
+<tr>
+<td width="15" align="center">🟣</td>
+<td><b>Backend Developer Intern</b></td>
+<td>ZenzAwwara Pvt. Ltd.</td>
+<td align="right"><code>Feb 2025 – May 2025</code></td>
+</tr>
+<tr>
+<td width="15" align="center">🟡</td>
+<td><b>Computer Teacher</b></td>
+<td>InfoSphere</td>
+<td align="right"><code>Sep 2024 – Aug 2025</code></td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [CVCraft](https://github.com/KartikSharma4448/CVCraft)
+**AI-Powered ATS Resume Builder**
+
+Full-stack resume builder with NVIDIA AI refinement, real-time ATS scoring, and instant PDF export. 84 property-based tests.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [CyrixAI](https://github.com/KartikSharma4448)
+**Windows AI Automation Agent**
+
+Desktop AI agent with voice commands, planning loop, browser automation, OCR, system controls, and live execution dashboard.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐄 [Pranag AI — PetsGo](https://github.com/KartikSharma4448)
+**AI Livestock Management Platform**
+
+Multi-modal AI pipeline: muzzle biometrics, CNN skin disease classifier, MFCC acoustic health screening for cattle.
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Aegis Care](https://github.com/KartikSharma4448)
+**Blockchain Healthcare Platform**
+
+Decentralized medical records on Algorand with role-based smart contracts, IPFS privacy-preserving storage.
+
+![Algorand](https://img.shields.io/badge/-Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Stickman Arena Blitz](https://github.com/KartikSharma4448)
+**Real-Time Multiplayer 3D Game**
+
+3D shooter with matchmaking, game rooms, leaderboard, and full-stack WebSocket communication.
+
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [Incognito Chat](https://github.com/KartikSharma4448)
+**Privacy-First Messaging App**
+
+E2E encrypted chat with hidden workspaces, OTP auth, SQLCipher encryption, and real-time messaging.
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLCipher-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 More Projects (9+)</b></summary>
+<br/>
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **TodoUp** 📱 | Flutter, Supabase, Hive | Published on Google Play Store — AI task management |
+| **Kartik-AI** 🏋️ | Flutter, Dart | AI fitness coach with GPS, posture analysis, calorie tracking |
+| **CodeUpPath** 💻 | React, Express, PostgreSQL | Developer internship & AI learning platform |
+| **KidzGPT** 🧒 | React, Three.js, LLM APIs | AI 3D learning assistant for children |
+| **Dynamic Portfolio** 🌐 | FastAPI, React, MongoDB | CMS-powered portfolio with admin panel |
+| **Hope Paws 1 & 2** 🐾 | React, Node.js, Geolocation | Animal rescue reporting platform |
+| **EASE Lang** 🔤 | Python | Custom programming language with AI prompt blocks |
+| **Family Finance Hub** 💰 | Python | Multi-account finance tracking system |
+| **Sploink.AI** 🔌 | React, TypeScript | VS Code extension — AI agent management ($5/hr client) |
+
 </details>
-🏗️ Featured Projects
-<table> <tr> <td width="50%">
-🤖 CVCraft
-AI-Powered ATS Resume Builder
 
-Full-stack resume builder with NVIDIA AI refinement, real-time ATS scoring, and instant PDF export.
+---
 
-React FastAPI NVIDIA NIM MongoDB jsPDF
+## 📊 GitHub Analytics
 
-</td> <td width="50%">
-🧠 CyrixAI
-Windows AI Automation Agent
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=1a73e8&title_color=1a73e8&rank_icon=github" width="49%" />
+</div>
 
-Desktop AI agent with voice commands, browser automation, OCR, system controls, and live execution dashboard.
+<br/>
 
-Python FastAPI LangChain Playwright
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
+</div>
 
-</td> </tr> <tr> <td width="50%">
-🐄 Pranag AI — PetsGo
-AI Livestock Management Platform
+<br/>
 
-Multi-modal AI: muzzle biometrics, skin disease CNN, acoustic health screening for cattle.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma4448&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a73e8&line=1a73e8&point=ff6b35" width="95%" />
+</div>
 
-FastAPI TensorFlow OpenCV React MFCC
+---
 
-</td> <td width="50%">
-🔐 Aegis Care
-Blockchain Healthcare Platform
-
-Decentralized medical records on Algorand with role-based smart contracts and IPFS storage.
-
-Algorand Python AlgoKit IPFS
-
-</td> </tr> <tr> <td width="50%">
-🎮 Stickman Arena Blitz
-Real-Time Multiplayer 3D Game
-
-3D shooter with matchmaking, game rooms, leaderboard, and WebSocket communication.
-
-React Three.js Socket.IO PostgreSQL
-
-</td> <td width="50%">
-💬 Incognito Chat
-Privacy-First Messaging App
-
-E2E encrypted chat with hidden workspaces, OTP auth, SQLCipher, and real-time messaging.
-
-Flutter Supabase SQLCipher
-
-</td> </tr> </table> <details> <summary><b>📂 More Projects (15+)</b></summary> <br/>
-Project	Stack	Description
-TodoUp	Flutter, Supabase	Published on Play Store — AI task management
-CodeUpPath	React, Express, PostgreSQL	Developer internship & learning platform
-KidzGPT	React, Three.js, LLM APIs	AI 3D learning assistant for children
-Dynamic Portfolio	FastAPI, React, MongoDB	CMS-powered portfolio with admin panel
-Hope Paws	React, Node.js, Geolocation	Animal rescue reporting platform
-EASE Lang	Python	Custom programming language with AI blocks
-Family Finance Hub	Python	Multi-account finance tracking system
-Sploink.AI	React, TypeScript	VS Code extension for AI agent management
-</details>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=1a73e8&title_color=1a73e8" width="49%" /> </div> <br/> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" /> </div>
-💼 Work Experience
-┌─────────────────────────────────────────────────────────────────┐
-│  🟢 Full Stack Developer Intern    │  PetsGo | Pranag AI       │
-│     Feb 2026 – Present             │  Remote                   │
-├─────────────────────────────────────────────────────────────────┤
-│  🔵 Technical Manager              │  Anukriti Prakashan       │
-│     Mar 2025 – Dec 2025            │  Jaipur                   │
-├─────────────────────────────────────────────────────────────────┤
-│  🟣 Backend Developer Intern       │  ZenzAwwara Pvt. Ltd.     │
-│     Feb 2025 – May 2025            │  Remote                   │
-├─────────────────────────────────────────────────────────────────┤
-│  🟡 Computer Teacher               │  InfoSphere               │
-│     Sep 2024 – Aug 2025            │  Jaipur                   │
-└─────────────────────────────────────────────────────────────────┘
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=KartikSharma4448&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" /> <br/><br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=100&section=footer" width="100%" /> </div> ```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikSharma4448&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" />
+  <br/><br/>
+  <b>💡 Open to collaborations on AI, Full Stack, and Open Source projects</b>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=100&section=footer" width="100%" />
+</div>
