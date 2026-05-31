@@ -45,33 +45,27 @@ Currently engineering **multi-modal AI** at **PetsGo | Pranag AI** — biometric
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=3" />
-
-<sub>React • Next.js • TypeScript • Three.js<br/>Tailwind CSS • Framer Motion • GSAP</sub>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=3" /><br/>
+<sub>React • Next.js • TypeScript • Three.js • Tailwind CSS • Framer Motion • GSAP</sub>
 
 </td>
 <td align="center" width="33%">
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask&perline=3" />
-
-<sub>FastAPI • Node.js • Express.js<br/>RESTful APIs • WebSocket • GraphQL</sub>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask&perline=3" /><br/>
+<sub>FastAPI • Node.js • Express.js • RESTful APIs • WebSocket • GraphQL</sub>
 
 </td>
 <td align="center" width="33%">
 
 **🗄️ Data & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,docker,git&perline=3" />
-
-<sub>MongoDB • PostgreSQL • Redis<br/>Supabase • Docker • Git</sub>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,docker,git&perline=3" /><br/>
+<sub>MongoDB • PostgreSQL • Redis • Supabase • Docker • Git</sub>
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td align="center" width="33%">
 
@@ -84,9 +78,8 @@ Currently engineering **multi-modal AI** at **PetsGo | Pranag AI** — biometric
 
 **🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=3" />
-
-<sub>NVIDIA NIM • LangChain • MFCC<br/>CNN • OpenCV • Embeddings</sub>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=3" /><br/>
+<sub>NVIDIA NIM • LangChain • MFCC • CNN • OpenCV • Embeddings</sub>
 
 </td>
 <td align="center" width="33%">
