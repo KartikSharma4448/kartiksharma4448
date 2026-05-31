@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=220&section=header&text=Kartik%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
@@ -18,8 +18,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a73e8&langs_count=8" width="320" />
 
 Full Stack Developer with **2+ years** of production experience building **AI-driven systems**, scalable web apps, and mobile applications.
 
@@ -236,13 +234,6 @@ E2E encrypted chat with hidden workspaces, OTP auth, SQLCipher encryption, and r
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=1a73e8&title_color=1a73e8&rank_icon=github" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
 </div>
 
 <br/>
