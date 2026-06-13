@@ -155,14 +155,14 @@ Healthcare web app with OTP-based authentication, protected dashboards, and work
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 [Hope-Paws2](https://github.com/KartikSharma4448/Hope-Paws2)
-**Smart Animal Safety Platform**
+### 🧒 [KidZ-GPT](https://github.com/KartikSharma4448/KidZ-GPT)
+**AI 3D Learning Assistant**
 
-Next-generation platform for real-time reporting of injured animals and discovering nearby veterinary services.
+Interactive learning companion using AI, multilingual voice processing, and animated 3D characters.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
