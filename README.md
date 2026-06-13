@@ -228,23 +228,12 @@ Cross-platform mobile application built with Expo and React Native for modern an
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="80%" />
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma4448&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a73e8&line=1a73e8&point=ff6b35" width="95%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
