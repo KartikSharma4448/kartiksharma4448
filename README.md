@@ -229,7 +229,7 @@ Cross-platform mobile application built with Expo and React Native for modern an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikSharma4448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="80%" />
 </div>
 
 <br/>
