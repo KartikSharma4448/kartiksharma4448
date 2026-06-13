@@ -229,8 +229,7 @@ Cross-platform mobile application built with Expo and React Native for modern an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 <br/>
@@ -242,11 +241,9 @@ Cross-platform mobile application built with Expo and React Native for modern an
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikSharma4448/kartiksharma4448/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikSharma4448/kartiksharma4448/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KartikSharma4448/kartiksharma4448/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KartikSharma4448&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
