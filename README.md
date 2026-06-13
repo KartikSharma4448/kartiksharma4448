@@ -132,79 +132,75 @@ Currently engineering **multi-modal AI** at **PetsGo | Pranag AI** — biometric
 ### 📄 [CVCraft](https://github.com/KartikSharma4448/CVCraft)
 **AI-Powered ATS Resume Builder**
 
-Full-stack resume builder with NVIDIA AI refinement, real-time ATS scoring, and instant PDF export. 84 property-based tests.
+Full-stack resume builder with NVIDIA AI refinement, real-time ATS scoring, and instant PDF export.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/-NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [CyrixAI](https://github.com/KartikSharma4448)
-**Windows AI Automation Agent**
+### 🏥 [Ayusync](https://github.com/KartikSharma4448/Ayusync)
+**Healthcare Web Platform**
 
-Desktop AI agent with voice commands, planning loop, browser automation, OCR, system controls, and live execution dashboard.
+Healthcare web app with OTP-based authentication, protected dashboards, and workflow-driven patient experiences.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐄 [Pranag AI — PetsGo](https://github.com/KartikSharma4448)
-**AI Livestock Management Platform**
+### 🐾 [Hope-Paws2](https://github.com/KartikSharma4448/Hope-Paws2)
+**Smart Animal Safety Platform**
 
-Multi-modal AI pipeline: muzzle biometrics, CNN skin disease classifier, MFCC acoustic health screening for cattle.
+Next-generation platform for real-time reporting of injured animals and discovering nearby veterinary services.
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Aegis Care](https://github.com/KartikSharma4448)
-**Blockchain Healthcare Platform**
-
-Decentralized medical records on Algorand with role-based smart contracts, IPFS privacy-preserving storage.
-
-![Algorand](https://img.shields.io/badge/-Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [Stickman Arena Blitz](https://github.com/KartikSharma4448)
-**Real-Time Multiplayer 3D Game**
-
-3D shooter with matchmaking, game rooms, leaderboard, and full-stack WebSocket communication.
-
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Incognito Chat](https://github.com/KartikSharma4448)
-**Privacy-First Messaging App**
+### 🔐 [Aegis Care](https://github.com/KartikSharma4448/Aegiscare)
+**Blockchain Healthcare App**
 
-E2E encrypted chat with hidden workspaces, OTP auth, SQLCipher encryption, and real-time messaging.
+Decentralized medical records platform for secure patient records and transparent health data workflows.
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLCipher-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Algorand](https://img.shields.io/badge/-Blockchain-000000?style=flat-square&logo=algorand&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Stickman Arena Blitz](https://github.com/KartikSharma4448/Stickman-Arena)
+**Real-Time Browser Game**
+
+Browser-based action game project focused on a stickman arena experience and interactive real-time gameplay.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Genzex](https://github.com/KartikSharma4448/Genzex)
+**Cross-Platform Mobile App**
+
+Cross-platform mobile application built with Expo and React Native for modern and fluid app experiences.
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
@@ -234,12 +230,23 @@ E2E encrypted chat with hidden workspaces, OTP auth, SQLCipher encryption, and r
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma4448&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma4448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma4448&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a73e8&line=1a73e8&point=ff6b35" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikSharma4448/kartiksharma4448/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikSharma4448/kartiksharma4448/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KartikSharma4448/kartiksharma4448/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
