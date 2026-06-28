@@ -19,9 +19,12 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Developer with **2+ years** of production experience building **AI-driven systems**, scalable web apps, and mobile applications.
+Full Stack and MERN Stack Developer with hands-on experience building scalable web applications, cross-platform mobile
+apps, and production-ready management systems. Proficient in React, Next.js, NestJS, FastAPI, Flutter, and PostgreSQL.
+Delivered complete end-to-end platforms from scratch across internships and freelance engagements. Strong in REST API
+design, full-stack architecture, database management, and cross-platform application development. Proven across 4 paid
+roles and 10+ shipped projects including international freelance clients.
 
-Currently engineering **multi-modal AI** at **PetsGo | Pranag AI** — biometric muzzle-print identification (OpenCV + TensorFlow), CNN-based disease detection, and MFCC acoustic health screening for livestock.
 
 ```yaml
 📍 Location:     Jaipur, Rajasthan, India
