@@ -30,7 +30,6 @@ Founder of **[CodeUpPath](https://codeuppath.com)** — a tech career platform f
 💼 Experience:   4 paid roles • 15+ shipped projects • International clients
 📱 Play Store:   TodoUp app — https://play.google.com/store/apps/details?id=app.todoup
 🌐 Portfolio:    https://kartiksharma.site
-🏢 Company:      https://codeuppath.com
 ```
 
 ---
