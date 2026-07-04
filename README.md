@@ -1,16 +1,18 @@
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=220&section=header&text=Kartik%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=220&section=header&text=Kartik%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Flutter%20App%20Builder&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Production+Systems;FastAPI+%2B+React+%2B+NVIDIA+NIM+%2B+TensorFlow;2%2B+Years+%7C+4+Paid+Roles+%7C+15%2B+Shipped+Projects;Shipping+Code+That+Matters+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Production+Systems;FastAPI+%2B+React+%2B+Flutter+%2B+NVIDIA+NIM;4+Paid+Roles+%7C+15%2B+Shipped+Projects;TodoUp+on+Google+Play+Store+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://kartiksharma.site"><img src="https://img.shields.io/badge/🌐_Portfolio-kartiksharma.site-1a73e8?style=for-the-badge&logoColor=white" /></a>&nbsp;
-  <a href="https://linkedin.com/in/kartik-sharma06"><img src="https://img.shields.io/badge/LinkedIn-kartik--sharma06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:kartikuma9261@gmail.com"><img src="https://img.shields.io/badge/Gmail-kartikuma9261-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/kartiksharma4448"><img src="https://img.shields.io/badge/GitHub-kartiksharma4448-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://kartiksharma.site"><img src="https://img.shields.io/badge/🌐_Portfolio-kartiksharma.site-1a73e8?style=for-the-badge&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/kartik-sharma06"><img src="https://img.shields.io/badge/LinkedIn-kartik--sharma06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:kartikuma9261@gmail.com"><img src="https://img.shields.io/badge/Gmail-kartikuma9261-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/kartiksharma4448"><img src="https://img.shields.io/badge/GitHub-kartiksharma4448-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
 
 <br/>
@@ -19,22 +21,17 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack and MERN Stack Developer with hands-on experience building scalable web applications, cross-platform mobile
-apps, and production-ready management systems. Proficient in React, Next.js, NestJS, FastAPI, Flutter, and PostgreSQL.
-Delivered complete end-to-end platforms from scratch across internships and freelance engagements. Strong in REST API
-design, full-stack architecture, database management, and cross-platform application development. Proven across 4 paid
-roles and 10+ shipped projects including international freelance clients.
-
+Full Stack Developer from **Jaipur, India** building scalable web apps, Flutter mobile apps, and AI-driven systems.
+Founder of **[CodeUpPath](https://codeuppath.com)** — a tech career platform for students.
 
 ```yaml
 📍 Location:     Jaipur, Rajasthan, India
 🎓 Education:    BCA @ Vivekananda Global University (CGPA: 7.89)
 💼 Experience:   4 paid roles • 15+ shipped projects • International clients
-🔬 Currently:    AI Livestock Platform @ PetsGo | Pranag AI
-🎯 Focus:        AI/ML Integration • Full Stack Architecture • Production Systems
+📱 Play Store:   TodoUp app — https://play.google.com/store/apps/details?id=app.todoup
+🌐 Portfolio:    https://kartiksharma.site
+🏢 Company:      https://codeuppath.com
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -46,24 +43,27 @@ roles and 10+ shipped projects including international freelance clients.
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=3" /><br/>
-<sub>React • Next.js • TypeScript • Three.js • Tailwind CSS • Framer Motion • GSAP</sub>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=3" />
+
+<sub>React • Next.js • TypeScript • Three.js • Tailwind CSS</sub>
 
 </td>
 <td align="center" width="33%">
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask&perline=3" /><br/>
-<sub>FastAPI • Node.js • Express.js • RESTful APIs • WebSocket • GraphQL</sub>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,nestjs&perline=3" />
+
+<sub>FastAPI • NestJS • Node.js • Express.js • REST APIs</sub>
 
 </td>
 <td align="center" width="33%">
 
-**🗄️ Data & DevOps**
+**🗄️ Database & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,docker,git&perline=3" /><br/>
-<sub>MongoDB • PostgreSQL • Redis • Supabase • Docker • Git</sub>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase&perline=3" />
+
+<sub>PostgreSQL • MongoDB • Supabase • Firebase • Redis</sub>
 
 </td>
 </tr>
@@ -74,13 +74,16 @@ roles and 10+ shipped projects including international freelance clients.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=4" />
 
+<sub>Flutter • Dart • Kotlin • Android</sub>
+
 </td>
 <td align="center" width="33%">
 
 **🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=3" /><br/>
-<sub>NVIDIA NIM • LangChain • MFCC • CNN • OpenCV • Embeddings</sub>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=3" />
+
+<sub>NVIDIA NIM • LangChain • CNN • MFCC • OpenCV</sub>
 
 </td>
 <td align="center" width="33%">
@@ -95,155 +98,54 @@ roles and 10+ shipped projects including international freelance clients.
 
 ---
 
-## 💼 Professional Experience
+## 🏗️ Featured Projects
 
-<table>
-<tr>
-<td width="15" align="center">🟢</td>
-<td><b>Full Stack Developer Intern</b></td>
-<td>PetsGo | Pranag AI</td>
-<td align="right"><code>Feb 2026 – Present</code></td>
-</tr>
-<tr>
-<td width="15" align="center">🔵</td>
-<td><b>Technical Manager — Web & Digital</b></td>
-<td>Anukriti Prakashan</td>
-<td align="right"><code>Mar 2025 – Dec 2025</code></td>
-</tr>
-<tr>
-<td width="15" align="center">🟣</td>
-<td><b>Backend Developer Intern</b></td>
-<td>ZenzAwwara Pvt. Ltd.</td>
-<td align="right"><code>Feb 2025 – May 2025</code></td>
-</tr>
-<tr>
-<td width="15" align="center">🟡</td>
-<td><b>Computer Teacher</b></td>
-<td>InfoSphere</td>
-<td align="right"><code>Sep 2024 – Aug 2025</code></td>
-</tr>
-</table>
+> 👉 See all projects with screenshots & details: **[kartiksharma.site/projects](https://kartiksharma.site/projects)**
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| 📱 **TodoUp** — AI Task Manager | Flutter, Supabase, Hive | [▶ Play Store](https://play.google.com/store/apps/details?id=app.todoup) · [Details](https://kartiksharma.site/projects/todoup) |
+| 🏫 **VCC ERP** — Coaching Institute | Flutter, Next.js, NestJS, Supabase | [🌐 Live](https://vcc-admin-panel.vercel.app) · [Details](https://kartiksharma.site/projects/vcc-erp) |
+| 🚗 **Rajasthali** — Travel & Fleet | Flutter, Next.js, Supabase, OSRM | [Details](https://kartiksharma.site/projects/rajasthali-tours) |
+| 🍽️ **RestroQR** — QR Menu System | Flutter, Node.js, Next.js, PostgreSQL | [🌐 Live](https://restro-qr-peach.vercel.app) · [Details](https://kartiksharma.site/projects/restroqr) |
+| 📄 **CVCraft** — AI Resume Builder | React, FastAPI, NVIDIA NIM, MongoDB | [🌐 Live](https://cvcraft-2fz1.onrender.com) · [Details](https://kartiksharma.site/projects/cvcraft) |
+| 🤖 **PRANAG AI** — Livestock Platform | React, FastAPI, TensorFlow, PostgreSQL | [Details](https://kartiksharma.site/projects) |
+| 🌐 **CodeUpPath** — Career Platform | Next.js, Node.js, Supabase | [🌐 Live](https://codeuppath.com) |
+| 📝 **CVCraft v2** | FastAPI, React, MongoDB, NVIDIA AI | [GitHub](https://github.com/KartikSharma4448/CVCraft) |
 
 ---
 
-## 🏗️ Featured Projects
+## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 [CVCraft](https://github.com/KartikSharma4448/CVCraft)
-**AI-Powered ATS Resume Builder**
-
-Full-stack resume builder with NVIDIA AI refinement, real-time ATS scoring, and instant PDF export.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [Ayusync](https://github.com/KartikSharma4448/Ayusync)
-**Healthcare Web Platform**
-
-Healthcare web app with OTP-based authentication, protected dashboards, and workflow-driven patient experiences.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧒 [KidZ-GPT](https://github.com/KartikSharma4448/KidZ-GPT)
-**AI 3D Learning Assistant**
-
-Interactive learning companion using AI, multilingual voice processing, and animated 3D characters.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Aegis Care](https://github.com/KartikSharma4448/Aegiscare)
-**Blockchain Healthcare App**
-
-Decentralized medical records platform for secure patient records and transparent health data workflows.
-
-![Algorand](https://img.shields.io/badge/-Blockchain-000000?style=flat-square&logo=algorand&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [Stickman Arena Blitz](https://github.com/KartikSharma4448/Stickman-Arena)
-**Real-Time Browser Game**
-
-Browser-based action game project focused on a stickman arena experience and interactive real-time gameplay.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [Genzex](https://github.com/KartikSharma4448/Genzex)
-**Cross-Platform Mobile App**
-
-Cross-platform mobile application built with Expo and React Native for modern and fluid app experiences.
-
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 More Projects (9+)</b></summary>
-<br/>
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **TodoUp** 📱 | Flutter, Supabase, Hive | Published on Google Play Store — AI task management |
-| **Kartik-AI** 🏋️ | Flutter, Dart | AI fitness coach with GPS, posture analysis, calorie tracking |
-| **CodeUpPath** 💻 | React, Express, PostgreSQL | Developer internship & AI learning platform |
-| **KidzGPT** 🧒 | React, Three.js, LLM APIs | AI 3D learning assistant for children |
-| **Dynamic Portfolio** 🌐 | FastAPI, React, MongoDB | CMS-powered portfolio with admin panel |
-| **Hope Paws 1 & 2** 🐾 | React, Node.js, Geolocation | Animal rescue reporting platform |
-| **EASE Lang** 🔤 | Python | Custom programming language with AI prompt blocks |
-| **Family Finance Hub** 💰 | Python | Multi-account finance tracking system |
-| **Sploink.AI** 🔌 | React, TypeScript | VS Code extension — AI agent management ($5/hr client) |
-
-</details>
+| | Role | Company | Period |
+|---|------|---------|--------|
+| 🟢 | Full Stack Developer Intern | PetsGo \| Pranag AI | Feb 2026 – Present |
+| 🔵 | Technical Manager — Web & Digital | Anukriti Prakashan | Mar 2025 – Dec 2025 |
+| 🟣 | Backend Developer Intern | ZenzAwwara Pvt. Ltd. | Feb 2025 – May 2025 |
+| 🟡 | Computer Teacher | InfoSphere | Sep 2024 – Aug 2025 |
 
 ---
 
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma4448&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a73e8&line=1a73e8&point=ff6b35" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma4448&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a73e8&line=1a73e8&point=ff6b35" width="95%" />
 </div>
-
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KartikSharma4448&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" />
-  <br/><br/>
-  <b>💡 Open to collaborations on AI, Full Stack, and Open Source projects</b>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=100&section=footer" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=KartikSharma4448&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**💡 Open to collaborations on AI, Full Stack, Flutter, and Open Source projects**
+
+🌐 **[kartiksharma.site](https://kartiksharma.site)** | 📧 **kartikuma9261@gmail.com**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=100&section=footer" width="100%" />
+
 </div>
