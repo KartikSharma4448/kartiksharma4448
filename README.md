@@ -1,150 +1,94 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=220&section=header&text=Kartik%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Flutter%20App%20Builder&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Production+Systems;FastAPI+%2B+React+%2B+Flutter+%2B+NVIDIA+NIM;4+Paid+Roles+%7C+15%2B+Shipped+Projects;TodoUp+on+Google+Play+Store+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="right">
+  <a href="https://thekartiksharma.in">Portfolio</a> &nbsp; / &nbsp;
+  <a href="#selected-products">Products</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="mailto:kartikuma9261@gmail.com">Contact</a>
 </p>
-
-<div align="center">
-
-<a href="https://kartiksharma.site"><img src="https://img.shields.io/badge/🌐_Portfolio-kartiksharma.site-1a73e8?style=for-the-badge&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/kartik-sharma06"><img src="https://img.shields.io/badge/LinkedIn-kartik--sharma06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:kartikuma9261@gmail.com"><img src="https://img.shields.io/badge/Gmail-kartikuma9261-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/kartiksharma4448"><img src="https://img.shields.io/badge/GitHub-kartiksharma4448-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
----
-
-## 🧑‍💻 About Me
-
-Full Stack Developer from **Jaipur, India** building scalable web apps, Flutter mobile apps, and AI-driven systems.
-Founder of **[CodeUpPath](https://codeuppath.com)** — a tech career platform for students.
-
-```yaml
-📍 Location:     Jaipur, Rajasthan, India
-🎓 Education:    BCA @ Vivekananda Global University (CGPA: 7.89)
-💼 Experience:   4 paid roles • 15+ shipped projects • International clients
-📱 Play Store:   TodoUp app — https://play.google.com/store/apps/details?id=app.todoup
-🌐 Portfolio:    https://kartiksharma.site
-```
-
----
-
-## ⚡ Tech Stack
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=3" />
-
-<sub>React • Next.js • TypeScript • Three.js • Tailwind CSS</sub>
-
+<td width="25%" valign="middle">
+  <img src="assets/kartik-sharma.png" width="190" alt="Kartik Sharma" />
 </td>
-<td align="center" width="33%">
-
-**⚙️ Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,nestjs&perline=3" />
-
-<sub>FastAPI • NestJS • Node.js • Express.js • REST APIs</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🗄️ Database & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase&perline=3" />
-
-<sub>PostgreSQL • MongoDB • Supabase • Firebase • Redis</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**📱 Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=4" />
-
-<sub>Flutter • Dart • Kotlin • Android</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🤖 AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=3" />
-
-<sub>NVIDIA NIM • LangChain • CNN • MFCC • OpenCV</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🛠️ Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,vercel&perline=5" />
-
+<td width="75%" valign="middle">
+  <sub>JAIPUR, INDIA &nbsp; / &nbsp; FULL STACK &amp; MOBILE</sub>
+  <h1>Kartik Sharma</h1>
+  <h3>Thoughtful interfaces. Practical products.</h3>
+  <p>I build web applications, Android apps and the APIs behind them, with a focus on usable interfaces and reliable everyday workflows.</p>
+  <p><strong>Full Stack &amp; MERN Developer</strong> &nbsp; | &nbsp; Flutter &amp; Kotlin</p>
+  <p><a href="https://thekartiksharma.in"><strong>Explore my portfolio &rarr;</strong></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/kartik-sharma06">LinkedIn</a></p>
 </td>
 </tr>
 </table>
 
+<a name="selected-products"></a>
+
+<p>
+  <a href="https://thekartiksharma.in"><img src="https://img.shields.io/badge/Portfolio-thekartiksharma.in-161b22?style=flat&amp;logo=googlechrome&amp;logoColor=58a6ff" alt="Visit portfolio" /></a>
+  <a href="https://linkedin.com/in/kartik-sharma06"><img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat&amp;logo=linkedin&amp;logoColor=0A66C2" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:kartikuma9261@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-161b22?style=flat&amp;logo=gmail&amp;logoColor=EA4335" alt="Email Kartik Sharma" /></a>
+</p>
+
+## Selected Products
+
+A few things I am building across the web and Android.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://restroqr.thekartiksharma.in"><img src="assets/restroqr.jpg" width="430" alt="RestroQR digital menus and live orders with Android owner and customer interfaces" /></a>
+  <sub>01 &nbsp; / &nbsp; RESTAURANT OPERATIONS</sub>
+  <h3>RestroQR</h3>
+  <p>Digital menus, table QR ordering and a privacy-aware live order board. Owners manage menus, tables, orders and earnings from the Android app.</p>
+  <p><sub>FLUTTER &nbsp; / &nbsp; NEXT.JS &nbsp; / &nbsp; EXPRESS &nbsp; / &nbsp; POSTGRESQL</sub></p>
+  <p><a href="https://restroqr.thekartiksharma.in"><strong>Visit website &rarr;</strong></a> &nbsp; <a href="https://github.com/KartikSharma4448/RestroQR">Source code</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://veyfolio.thekartiksharma.in"><img src="assets/veyfolio.png" width="430" alt="Veyfolio resume builder with live preview and PDF export" /></a>
+  <sub>02 &nbsp; / &nbsp; RESUME WORKSPACE</sub>
+  <h3>Veyfolio</h3>
+  <p>A focused resume builder with two templates, live preview, project sections, browser autosave, keyword checks and matching PDF export.</p>
+  <p><sub>REACT &nbsp; / &nbsp; FASTAPI &nbsp; / &nbsp; TAILWIND CSS &nbsp; / &nbsp; JSPDF</sub></p>
+  <p><a href="https://veyfolio.thekartiksharma.in"><strong>Visit website &rarr;</strong></a> &nbsp; <a href="https://github.com/KartikSharma4448/Veyfolio">Source code</a></p>
+</td>
+</tr>
+</table>
+
+### More From My Workbench
+
+| Product | Focus | Explore |
+| :--- | :--- | :--- |
+| **My Purse** | Offline Android vault for cards, ID images and PDFs, with encrypted on-device storage. Kotlin + Jetpack Compose. | [Case study](https://thekartiksharma.in/projects/my-purse-offline-android-wallet) / [Source](https://github.com/KartikSharma4448/My-Purse) |
+| **VCC ERP** | Coaching institute workflows across a Flutter mobile app and web administration. | [Case study](https://thekartiksharma.in/projects/vcc-erp-coaching-institute-management) / [Source](https://github.com/KartikSharma4448/vcc-erp) |
+| **Rajasthali** | Travel and fleet operations with driver/client apps and an admin dashboard. | [Case study](https://thekartiksharma.in/projects/rajasthali-travel-fleet-management-system) / [Source](https://github.com/KartikSharma4448/Rajasthali-Traveling-System) |
+
+[All projects, screenshots and case studies &rarr;](https://thekartiksharma.in/projects)
+
+<a name="toolkit"></a>
+
+## Toolkit
+
+| Interfaces | Services | Mobile | Data |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&amp;perline=2" width="96" height="96" alt="React, Next.js, TypeScript and Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&amp;perline=2" width="96" height="96" alt="Node.js, Express, Python and FastAPI" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&amp;perline=2" width="96" height="96" alt="Flutter, Dart, Kotlin and Android Studio" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&amp;perline=3" width="144" height="96" alt="PostgreSQL, MongoDB, Supabase, Firebase and Redis" /> |
+| React | Node.js / Express | Flutter / Dart | PostgreSQL |
+| Next.js | Python / FastAPI | Kotlin | MongoDB |
+| TypeScript | REST APIs | Jetpack Compose | Supabase / Firebase |
+| Tailwind CSS | Authentication | Android | Redis |
+
+## Background
+
+<strong>BCA in Full Stack &amp; Cloud Computing</strong><br />
+Vivekananda Global University, Jaipur &nbsp; / &nbsp; **CGPA: 7.89**
+
+I enjoy working across product interfaces, backend services and mobile experiences, from the first usable screen to the workflows behind it.
+
 ---
 
-## 🏗️ Featured Projects
-
-> 👉 See all projects with screenshots & details: **[kartiksharma.site/projects](https://kartiksharma.site/projects)**
-
-| Project | Stack | Links |
-|---------|-------|-------|
-| 📱 **TodoUp** — AI Task Manager | Flutter, Supabase, Hive | [▶ Play Store](https://play.google.com/store/apps/details?id=app.todoup) · [Details](https://kartiksharma.site/projects/todoup) |
-| 🏫 **VCC ERP** — Coaching Institute | Flutter, Next.js, NestJS, Supabase | [🌐 Live](https://vcc-admin-panel.vercel.app) · [Details](https://kartiksharma.site/projects/vcc-erp) |
-| 🚗 **Rajasthali** — Travel & Fleet | Flutter, Next.js, Supabase, OSRM | [Details](https://kartiksharma.site/projects/rajasthali-tours) |
-| 🍽️ **RestroQR** — QR Menu System | Flutter, Node.js, Next.js, PostgreSQL | [🌐 Live](https://restro-qr-peach.vercel.app) · [Details](https://kartiksharma.site/projects/restroqr) |
-| 📄 **CVCraft** — AI Resume Builder | React, FastAPI, NVIDIA NIM, MongoDB | [🌐 Live](https://cvcraft-2fz1.onrender.com) · [Details](https://kartiksharma.site/projects/cvcraft) |
-| 🤖 **PRANAG AI** — Livestock Platform | React, FastAPI, TensorFlow, PostgreSQL | [Details](https://kartiksharma.site/projects) |
-| 🌐 **CodeUpPath** — Career Platform | Next.js, Node.js, Supabase | [🌐 Live](https://codeuppath.com) |
-| 📝 **CVCraft v2** | FastAPI, React, MongoDB, NVIDIA AI | [GitHub](https://github.com/KartikSharma4448/CVCraft) |
-
----
-
-## 💼 Professional Experience
-
-| | Role | Company | Period |
-|---|------|---------|--------|
-| 🟢 | Full Stack Developer Intern | PetsGo \| Pranag AI | Feb 2026 – Present |
-| 🔵 | Technical Manager — Web & Digital | Anukriti Prakashan | Mar 2025 – Dec 2025 |
-| 🟣 | Backend Developer Intern | ZenzAwwara Pvt. Ltd. | Feb 2025 – May 2025 |
-| 🟡 | Computer Teacher | InfoSphere | Sep 2024 – Aug 2025 |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma4448&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a73e8&line=1a73e8&point=ff6b35" width="95%" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KartikSharma4448&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-**💡 Open to collaborations on AI, Full Stack, Flutter, and Open Source projects**
-
-🌐 **[kartiksharma.site](https://kartiksharma.site)** | 📧 **kartikuma9261@gmail.com**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <sub>HAVE A PRODUCT IN MIND?</sub><br />
+  <strong>Let's build something useful.</strong><br /><br />
+  <a href="mailto:kartikuma9261@gmail.com">Email me</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/kartik-sharma06">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://thekartiksharma.in">thekartiksharma.in</a>
+</p>
